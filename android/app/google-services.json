@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048792515389",
+    "project_id": "sovannara-brew-crew",
+    "storage_bucket": "sovannara-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048792515389:android:19a742bc83d08c88ddbb54",
+        "android_client_info": {
+          "package_name": "com.sovannara.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048792515389-nde3spt6g9o4va8o58fol0rv8kcbvhcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJNfSpE5elpJMSbqMEuphh399MR0re0Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048792515389-nde3spt6g9o4va8o58fol0rv8kcbvhcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
